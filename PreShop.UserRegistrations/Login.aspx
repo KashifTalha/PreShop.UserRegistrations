@@ -32,8 +32,6 @@
                     <li><a href="#" class="fa fa-facebook icon facebook"></a></li>
                     <li><a href="#" class="fa fa-twitter icon twitter"></a></li>
                     <li><a href="#" class="fa fa-google-plus icon googleplus"></a></li>
-                    <li><a href="#" class="fa fa-dribbble icon dribbble"></a></li>
-                    <li><a href="#" class="fa fa-rss icon rss"></a></li>
                 </ul>
             </div>
         </div>

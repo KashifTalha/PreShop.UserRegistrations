@@ -79,8 +79,9 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="PreShop.EmailService">
-      <HintPath>C:\Users\Kashif\Desktop\PreShop.EmailService.dll</HintPath>
+    <Reference Include="PreShop.EmailService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Services\PreShop.EmailService\PreShop.EmailService\bin\Debug\PreShop.EmailService.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />

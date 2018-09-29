@@ -25,10 +25,6 @@
                 <asp:RequiredFieldValidator ControlToValidate="txtConfirmPassword" ValidationGroup="g" runat="server" ErrorMessage="*Please Enter Your Confirm Password" SetFocusOnError="true" ForeColor="Red" ></asp:RequiredFieldValidator>
                 <asp:CompareValidator ID="CompareValidator1" ControlToCompare="txtPassowrd" ControlToValidate="txtConfirmPassword" runat="server" ErrorMessage="*Password and Confirm Password Do Not Match" SetFocusOnError="true" ForeColor="Red" Display="Dynamic"></asp:CompareValidator>
 
-
-                <asp:FileUpload CssClass="user" ID="imgUpload" runat="server"></asp:FileUpload>
-                <asp:RequiredFieldValidator ControlToValidate="imgUpload" ValidationGroup="g" runat="server" ErrorMessage="*Please Upload Image" SetFocusOnError="true" ForeColor="Red"></asp:RequiredFieldValidator>
-                <br />
                 <asp:TextBox CssClass="user" ID="txtAddress" runat="server" placeholder="Enter Your Address"></asp:TextBox>
                 <asp:RequiredFieldValidator ControlToValidate="txtAddress" EnableClientScript="true" ValidationGroup="g" runat="server" ErrorMessage="*Please Enter Your Address" SetFocusOnError="true" ForeColor="Red" Display="Dynamic"></asp:RequiredFieldValidator>
                 <asp:Button ID="btnSubmit" Text="Sign Up" ValidationGroup="g" runat="server" OnClick="btnSubmit_Click" />

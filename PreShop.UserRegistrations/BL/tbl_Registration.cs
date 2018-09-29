@@ -31,12 +31,11 @@ namespace PreShop.UserRegistrations
                 par[4] = new SqlParameter("@Image", Image);
                 par[5] = new SqlParameter("@Address", Address);
                 par[6] = new SqlParameter("@Status", Status);
-                SpartansHelper.ExecuteQuery("sp_Registration", par);
+                ExecuteQuery("sp_Registration", par);
                 return true;
             }
         }
 
-        static SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["connection"].ConnectionString);
         public DataTable LogIn()
         {
             SqlParameter[] par = new SqlParameter[2];
@@ -44,9 +43,8 @@ namespace PreShop.UserRegistrations
                 par[0] = new SqlParameter("@Email", Email);
                 par[1] = new SqlParameter("@Password", Password);
                 string qry = "select * from tbl_Registration where Email='" + Email + "' and Password='" + Password + "'";
-                return SpartansHelper.ExecutePlainQuery(qry);
+                return ExecutePlainQuery(qry);
             }
-
         }
     }
 }

@@ -32,3 +32,39 @@ F:\C#\PreShop.UserRegistrations\PreShop.UserRegistrations\obj\Debug\PreShop.User
 F:\C#\PreShop.UserRegistrations\PreShop.UserRegistrations\obj\Debug\PreShop.UserRegistrations.dll
 F:\C#\PreShop.UserRegistrations\PreShop.UserRegistrations\obj\Debug\PreShop.UserRegistrations.pdb
 F:\C#\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\PreShop.EmailService.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\ApplicationInsights.config
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\csc.exe
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\System.Collections.Immutable.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\System.Reflection.Metadata.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\vbc.exe
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\VBCSCompiler.exe
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\roslyn\VBCSCompiler.exe.config
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\PreShop.UserRegistrations.dll.config
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\PreShop.UserRegistrations.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\PreShop.UserRegistrations.pdb
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.DependencyCollector.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.Web.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.WindowsServer.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.ApplicationInsights.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.DependencyCollector.xml
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.Web.xml
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.AI.WindowsServer.xml
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.ApplicationInsights.xml
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\obj\Debug\PreShop.UserRegistrations.csprojResolveAssemblyReference.cache
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\obj\Debug\PreShop.UserRegistrations.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\obj\Debug\PreShop.UserRegistrations.pdb
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\PreShop.EmailService.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\SubSonic.dll
+I:\Client Projects\Codes\PreShop WorkSpace\PreShop.UserRegistrations\PreShop.UserRegistrations\bin\PreShop.EmailService.pdb
